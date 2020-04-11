@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "aakashsethi.korona game trial.india"
+    versionCode = "10"
+    version     = "1.0.01" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>K/O-RONA</name>
+
+  <description>
+      An app to create awareness about COVID-19 disease
+  </description>
+
+  <author href="https://build.phonegap.com" email="aakashsethirox@gmail.com">
+      Aakash Sethi
+  </author>
+  
+<icon src="icon.png" />
+
+</widget>
